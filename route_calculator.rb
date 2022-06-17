@@ -37,7 +37,7 @@ class RouteCalculator
         return total_routes.filter{ |path| path.path.length <= num_stops + 1 }
     end
 
-    # Method: routes_shorter_than
+    # Method: routes_with_exact_stops
     # Finds all possible routes with the given number of stops
     # Returns: Array of Routes
     def routes_with_exact_stops(start, finish, num_stops)
