@@ -91,7 +91,7 @@ Recursively find possible routes
 
 **b**: Stop to find a route to
 
-***valid_routes**: Array for storing valid routes
+**valid_routes**: Array for storing valid routes
 
 **looping**: True if repeating stops is allowed
 
