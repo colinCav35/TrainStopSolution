@@ -1,4 +1,6 @@
-# TrainStopSolution
+# Speedy Loop
+
+```ruby main.rb```
 
 ## RouteCalculator
 #### Method: initialize
